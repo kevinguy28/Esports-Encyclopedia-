@@ -7,6 +7,8 @@ teams and sponsors on the webpage.
 
 This website was made using HTML, CSS, Javascript, Bootstrap, PHP and mySQL.
 
+link: http://3.230.1.132/ 
+
 https://github.com/ab-n3xt
 https://github.com/Minseung27
 https://github.com/bolongxi
