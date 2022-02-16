@@ -1,4 +1,4 @@
-This project was done with: ab-n3xt, Minseung27 and bolongxi.
+This project was done with: kevinguy28, ab-n3xt, Minseung27 and bolongxi.
 
 This website was made to be an encyclopedia for esports hosting information on different Esport teams from different games. 
 
@@ -9,6 +9,7 @@ This website was made using HTML, CSS, Javascript, Bootstrap, PHP and mySQL.
 
 link: http://3.230.1.132/ 
 
+https://github.com/kevinguy28
 https://github.com/ab-n3xt
 https://github.com/Minseung27
 https://github.com/bolongxi
